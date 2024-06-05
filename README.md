@@ -1,0 +1,1 @@
+# PhotoPalace: A modern website crafted with HTML and CSS to showcase stunning photography.
